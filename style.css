@@ -85,6 +85,12 @@ input[type="select"] {
   position: relative;
 }
 
+.control {
+  font-family: 'Pacifico', cursive;
+  margin-bottom: 0;
+  font-size: 2rem;
+}
+
 .voiceinator button:active {
   top: 2px;
 }
